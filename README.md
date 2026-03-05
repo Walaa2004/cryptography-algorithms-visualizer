@@ -62,7 +62,7 @@ cryptography algorithms with an interactive GUI built using Tkinter.
 ---
 
 ## Screenshot
-
+![App Screenshot](screenshot.png)
 ---
 
 ## Author
