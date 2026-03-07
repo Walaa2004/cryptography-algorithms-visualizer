@@ -59,11 +59,15 @@ cryptography algorithms with an interactive GUI built using Tkinter.
 3. Run the application
    python main.py
 
+Note: A file named `test cases` is included in the repository. It contains sample test cases for all implemented cryptographic algorithms and you can use these examples to easily test and verify the functionality of the application.
+
 ---
 
 ## Screenshot
 ![App Screenshot](Screenshot%20(285).png)
 ![App Screenshot](Screenshot%20(286).png)
+![App Screenshot](Screenshot%20(324).png)
+![App Screenshot](Screenshot%20(325).png)
 
 ---
 
