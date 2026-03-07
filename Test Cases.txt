@@ -1,0 +1,67 @@
+Test cases:
+_ _ _ _ _ _ _ _
+1-Caesar Cipher:
+plaintext:decodex  , key = 3
+ciphertext:ghfrgha
+_ _ _ _ _ _ _ _ _ _ _ _ _ _
+2-Caesar Cipher Bruteforce:
+ciphertext:hwduytlwfumd
+result = 
+gvctxskvetlc
+fubswrjudskb
+etarvqitcrja
+dszquphsbqiz
+cryptography
+bqxosnfqzogx
+apwnrmepynfw
+zovmqldoxmev
+ynulpkcnwldu
+xmtkojbmvkct
+wlsjnialujbs
+vkrimhzktiar
+ujqhlgyjshzq
+tipgkfxirgyp
+shofjewhqfxo
+rgneidvgpewn
+qfmdhcufodvm
+pelcgbtencul
+odkbfasdmbtk
+ncjaezrclasj
+mbizdyqbkzri
+lahycxpajyqh
+kzgxbwozixpg
+jyfwavnyhwof
+ixevzumxgvne
+None
+_ _ _ _ _ _ _ _ 
+3-Affine Cipher:
+plaintext:crypto  , key =(3,5)
+ciphertext:lezykv
+_ _ _ _ _ _ _ _ _ 
+4-Vigenere Cipher:
+plaintext:playingfootball   , key = root
+ciphertext:gzorzbuyfchurzz
+_ _ _ _ _ _ _ _ _ _ _
+5-Onetime Pad Cipher:
+plaintext:One Time Cipher
+ciphertext:240b1c4b3110060059280c0903000b
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+6- Columnar Transposition Cipher:
+plaintext:hello world    , key=2314
+ciphertext:lwdhore llo_
+_ _ _ _ _ _ _ _ _ _ _
+7-Railfence Cipher:
+plaintext:meetmeafterthetogaparty  , key = 2
+ciphertext:mematrhtgpryetefeteoaat
+_ _ _ _ _ _ _ _ _ _ _ 
+8- Playfair Cipher:
+plaintext:hello world , key = monarchy
+ciphertext:cfsupmvnmtbz
+_ _ _ _ _ _ _ _ _ _ _ 
+9- DES cipher:
+plaintext:Hello DES!
+ciphertext:d1OB3RfeoeYvGmsMz314Eg==
+_ _ _ _ _ _ _ _ _ _ _ _
+10- RSA cipher:
+plaintext:2
+ciphertext:8
