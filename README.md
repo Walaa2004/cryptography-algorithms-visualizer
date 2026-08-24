@@ -63,7 +63,7 @@ Note: A file named `test cases` is included in the repository. It contains sampl
 
 ---
 
-## Screenshot
+## Demo Screenshot
 ![App Screenshot](Screenshot%20(285).png)
 ![App Screenshot](Screenshot%20(286).png)
 ![App Screenshot](Screenshot%20(324).png)
